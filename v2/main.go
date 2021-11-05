@@ -1,4 +1,4 @@
-package lesson3_module
+package lesson3_module_v2
 
 import (
 	_ "github.com/gorilla/websocket"
